@@ -1,0 +1,10 @@
+High-level programming languages are designed to be easier to read, write, and understand by humans. They are abstracted from the complexities of computer hardware and provide more understandable commands and structures. Examples include Python, Java, and C#. Low-level programming languages, on the other hand, are closer to machine code and hardware. They offer more direct control over hardware resources but are typically more challenging to work with due to their proximity to the machine architecture. Examples of low-level languages are Assembly language and Machine code.
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python emphasizes code readability and simplicity, with a clean and straightforward syntax that makes it easy to learn and use. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python has a vast ecosystem of libraries and frameworks that facilitate various tasks, such as web development, data analysis, artificial intelligence, and scientific computing.
+
+A platform-independent programming language is one that can run on different operating systems or platforms without requiring modification. This means that code written in such a language can be executed on various devices and environments without needing to be rewritten for each specific platform. Java is one of the most well-known platform-independent programming languages. Java programs are compiled into bytecode, which can run on any device that has a Java Virtual Machine (JVM), regardless of the underlying operating system. Other examples of platform-independent languages include Python, C#, and JavaScript (to some extent, through web browsers). These languages typically achieve platform independence through the use of interpreters, virtual machines, or runtime environments that abstract away platform-specific details.
+
+
+
+
+
